@@ -85,7 +85,7 @@ task main()
 
 		// drive robot
 		drive();
-
+		//use arm
 		// use hand
 		//grab();
 		arm();
